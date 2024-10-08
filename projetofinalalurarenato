@@ -1,0 +1,14 @@
+# Clonar o repositório
+git clone https://github.com/USERNAME/meu-projeto-simples.git
+
+# Navegar até o diretório do projeto
+cd meu-projeto-simples
+
+# Adicionar todos os arquivos
+git add .
+
+# Commit das mudanças com uma mensagem
+git commit -m "Adicionando arquivos do projeto simples"
+
+# Enviar as mudanças para o GitHub
+git push origin main
